@@ -1,0 +1,117 @@
+# Privacy Policy for BrainForge
+
+**Last updated:** April 18, 2026
+
+**Developer:** Pranjal Dev Studio
+
+BrainForge ("the App") is a brain training application that offers math puzzles, speed tests, logic games, and aptitude exercises. This privacy policy explains how we collect, use, and protect your information.
+
+---
+
+## Information We Collect
+
+### Information You Provide
+- **Display Name:** If you choose to set a display name for the leaderboard, it is stored locally on your device and synced to our database.
+- **Game Progress:** Scores, achievements, coins, gems, XP, streaks, and puzzle completion status are stored locally and synced to our servers for leaderboard functionality.
+
+### Information Collected Automatically
+- **Anonymous User ID:** We use Firebase Authentication to create an anonymous user account. This does not require any personal information such as name, email, or phone number.
+- **Device Information:** Our advertising partner (Google AdMob) may collect device identifiers, IP address, and general device information to serve relevant advertisements.
+- **Usage Data:** We may collect anonymous usage statistics to improve the app experience.
+
+### Information We Do NOT Collect
+- Email addresses (unless you voluntarily sign in with Google/Email)
+- Phone numbers
+- Precise location data
+- Contacts or address book
+- Photos, videos, or media files
+- Financial or payment information
+
+---
+
+## How We Use Your Information
+
+- To provide and maintain leaderboard rankings
+- To track your game progress and achievements
+- To serve advertisements through Google AdMob
+- To improve the app and fix bugs
+- To provide weekly challenges and monthly content
+
+---
+
+## Third-Party Services
+
+The App uses the following third-party services that may collect information:
+
+| Service | Purpose | Privacy Policy |
+|---------|---------|---------------|
+| Firebase Authentication | Anonymous user identification | [Google Privacy Policy](https://policies.google.com/privacy) |
+| Cloud Firestore | Leaderboard and challenge data storage | [Google Privacy Policy](https://policies.google.com/privacy) |
+| Google AdMob | Advertising | [Google Ads Privacy](https://policies.google.com/technologies/ads) |
+
+---
+
+## Advertising
+
+The App displays advertisements through Google AdMob, including:
+- Banner advertisements
+- Interstitial advertisements (between activities)
+- Rewarded advertisements (optional, user-initiated for in-app rewards)
+
+You can opt out of personalized advertising through your device settings:
+- **Android:** Settings → Google → Ads → Opt out of Ads Personalization
+
+Premium users who purchase the ad-free upgrade will not see any advertisements.
+
+---
+
+## Data Storage and Security
+
+- Game progress is stored locally on your device using SharedPreferences.
+- Leaderboard data and scores are stored in Google Cloud Firestore, hosted in Google Cloud infrastructure.
+- We do not sell, trade, or rent your information to third parties.
+- All data transmission uses HTTPS encryption.
+
+---
+
+## Data Retention
+
+- Local game data is stored on your device until you uninstall the app or reset progress within the app settings.
+- Leaderboard data is retained on our servers as long as your anonymous account exists.
+- You can reset all your local progress from the Profile screen within the app.
+
+---
+
+## Children's Privacy
+
+BrainForge is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us and we will take steps to delete such information.
+
+---
+
+## Your Rights
+
+You have the right to:
+- **Access** your data through the app's Profile and Stats screens
+- **Delete** your local data by using the "Reset Progress" option in the app
+- **Opt out** of personalized advertising through your device settings
+- **Request deletion** of your server-side data by contacting us
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this page. We encourage you to review this privacy policy periodically.
+
+---
+
+## Contact Us
+
+If you have any questions or concerns about this privacy policy or our data practices, please contact us at:
+
+**Email:** pranjalbaishya.tech@gmail.com
+
+**Developer:** Pranjal Dev Studio
+
+---
+
+*This privacy policy is effective as of April 18, 2026.*
